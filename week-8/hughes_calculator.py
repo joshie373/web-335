@@ -17,7 +17,7 @@ def subtract(num1,num2):
   diff = num1 - num2
   return diff
 
-# function that takes two parameters(numbers) and finds the quotient
+# function that takes two parameters(numbers) and finds the quotient of them
 def divide(num1,num2):
   quot = num1/num2
   return quot
@@ -25,3 +25,4 @@ def divide(num1,num2):
 print(add(1, 2))
 print(subtract(4, 1))
 print(divide(8, 2))
+
